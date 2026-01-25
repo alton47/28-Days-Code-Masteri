@@ -1,0 +1,27 @@
+Day 2 — Setup & Coding Environment
+
+Today we started with:
+- 20 minutes of touch typing practice
+
+Then we:
+- Installed VS Code (or any code editor)
+- Installed Google Chrome
+- Installed some useful extensions like:
+  - Prettier
+  - Live Server
+  - Any other helpful ones
+
+Then we:
+- Opened Chrome DevTools
+- Clicked around
+- Broke some websites
+- Even played with the FBI Most Wanted site for fun 😭
+  (You can literally change names and images and prank your friends)
+
+The goal today:
+- Get comfortable with the tools
+- Understand the browser inspector
+- Stop being afraid to click and experiment
+
+Tomorrow:
+We start writing real code.
