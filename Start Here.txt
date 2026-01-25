@@ -1,0 +1,44 @@
+28 Days Code Mastery — Learn to Code by Building
+
+This repo documents a 28-day journey where I’m teaching my brother how to code from absolute zero to building real-world websites, apps and 3D web experiences.
+
+This is NOT about memorizing syntax.
+This is about learning how to think, build, debug and ship real software.
+
+There is a huge difference between:
+- Learning a programming language
+- Learning programming
+
+This repo focuses on the second one.
+
+Everything here is:
+- 100% FREE
+- Project-based
+- Beginner-friendly
+- Using modern 2026 best practices
+- Using AI as a workflow tool, not a crutch
+
+
+🛠 How To Follow along
+Each day has its own folder Day 01 - 28.
+
+1. Clone this repository using GitHub Desktop - https://github.com/alton47/28-Days-Code-Masteri
+2. Open the folder for the current day (for example: Day-01).
+3. Open PROJECTs folder.
+4. Open PROJECT.txt and read the instructions.
+5. Check goal.png to see what you are supposed to build.
+6. Open index.html and start coding there.
+7. When you’re done, compare your work with solution.html.
+8. Repeat this process every day.
+
+Community & Updates:
+- Newsletter: https://substack.com/@codemasteri
+- YouTube: https://www.youtube.com/@CodeMasteri
+- Instagram: https://www.instagram.com/code_masteri/
+
+Important:
+Your solution does NOT have to look exactly like mine.
+If the final result is similar and works, you did it right!!
+
+Goal:
+Learn how to think like a developer, not how to memorize code.
