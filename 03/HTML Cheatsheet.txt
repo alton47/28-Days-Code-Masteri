@@ -1,0 +1,46 @@
+HTML CORE — The Only Things That Actually Matter
+
+1. HTML defines the structure of the web.
+2. Every HTML file starts with:
+   <!DOCTYPE html>
+   <html>
+   <head>
+   <body>
+
+3. The most important tags:
+   <h1> to <h6> → headings
+   <p> → paragraph
+   <a> → link
+   <img> → image
+   <div> → container
+   <span> → inline container
+   <ul>, <ol>, <li> → lists
+   <button> → button
+   <form> → form
+
+4. Headings:
+   - <h1> is the main title (use only one per page)
+   - <h2> to <h6> are subheadings
+   - They define structure, not size
+
+5. Attributes:
+   - href, src, alt, title, id, class
+   Example:
+   <img src="image.png" alt="Description">
+
+6. Nesting:
+   - Tags go inside other tags
+   - Always close your tags
+
+7. HTML is NOT for:
+   - Styling (that’s CSS)
+   - Logic (that’s JavaScript)
+
+8. If you understand:
+   - Structure
+   - Nesting
+   - Semantics
+   - Headings
+   You already understand 80% of HTML.
+
+Everything else is just extra tags.
