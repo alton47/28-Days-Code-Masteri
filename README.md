@@ -1,7 +1,5 @@
 # 🚀 28 Days Code Mastery — Learn to Code by Hand!
 
-## 👋 Hi, I’m Allan
-
 This repository documents a **28-day journey** where I’m teaching my brother how to code **from absolute zero** to building **real-world full-stack & 3D web projects**.
 
 This is **NOT** about memorizing syntax.  
@@ -37,11 +35,12 @@ Each day has its own folder Day 01 - 28.
 
 1. Clone this repository using **GitHub Desktop**.
 2. Open the folder for the current day (for example: `Day-01`).
-3. Open `PROJECT.txt` and read the instructions.
-4. Check `goal.png` to see what you are supposed to build.
-5. Open `index.html` and start coding there.
-6. When you’re done, compare your work with `solution.html`.
-7. Repeat this process every day.
+3. Open `PROJECTs` folder.
+4. Open `PROJECT.txt` and read the instructions.
+5. Check `goal.png` to see what you are supposed to build.
+6. Open `index.html` and start coding there.
+7. When you’re done, compare your work with `solution.html`.
+8. Repeat this process every day.
 
 ---
 
