@@ -1,0 +1,29 @@
+Project 2 — Recipe Website (HTML Only)
+
+About:
+In this project, you will build a simple recipe website using only HTML. You will practice using headings, paragraphs, lists, tables and images to structure real content.
+
+Goal:
+- Create a clean recipe page layout using only HTML elements.
+
+Rules:
+- No CSS
+- No JavaScript
+
+Files:
+- index.html → code here
+- solution.html → check after you finish
+
+What You Will Practice:
+- Headings
+- <p> paragraphs
+- <ul> and <ol> lists (ingredients & steps)
+- <table> for nutrition or recipe info
+- <img> for the recipe image (Optional)
+- Proper HTML structure and nesting
+
+Instructions:
+1. Open index.html
+2. Look at goal.png to see what you need to build
+3. Recreate the recipe page using only HTML
+4. When done, compare your work with solution.html

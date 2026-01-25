@@ -1,0 +1,20 @@
+Project 1 — HTML Headings (h1 to h6)
+
+About:
+In this project, you will learn how HTML headings work, from <h1> to <h6>, and how they are used to structure content on a web page.
+
+Goal:
+- Recreate the layout using only HTML headings and basic tags.
+
+Rules:
+- No CSS
+- No JavaScript
+
+Files:
+- index.html → code here
+- solution.html → check after you finish
+
+Instructions:
+1. Look at goal.png to see what you need to build
+2. Recreate the layout inside the index.html using only HTML
+3. When done, compare your work with solution.html
