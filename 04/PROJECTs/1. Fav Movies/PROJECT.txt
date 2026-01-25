@@ -1,0 +1,21 @@
+Project 5 — Favorite Movies Website (First CSS Upgrade)
+
+About:
+In this project, you will take your old HTML-only movies website and improve it using CSS. You will add colors, spacing, fonts, and basic alignment.
+
+Goal:
+- Make the website look clean and readable using basic CSS.
+
+You Will Learn:
+- Colors
+- Fonts
+- Spacing (margin & padding)
+- Basic alignment
+- Simple layout improvements
+
+Rules:
+- No JavaScript
+
+Files:
+- index.css → code here
+- Solution file → check after you finish
