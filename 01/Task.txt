@@ -1,0 +1,20 @@
+Your tasks today:
+
+1. Create a GitHub account.
+2. Install Git.
+3. Install GitHub Desktop.
+4. Clone this repository:
+   https://github.com/alton47/28-Days-Code-Masteri
+5. Open the "Start Here" File and Read inside   
+6. Open the folder "Day-01".
+7. Read the files inside.
+8. Follow the instructions in PROJECT.txt.
+9. Start the journey.
+
+Tip:
+Use GitHub Desktop. It makes Git simple and visual.
+
+Goal of today:
+- Understand what Git and GitHub are
+- Get the project on your computer
+- Be ready to start coding

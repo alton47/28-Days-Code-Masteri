@@ -1,0 +1,54 @@
+GIT & GITHUB CORE — The Only Things That Actually Matter
+
+1. What is Git?
+You don't need to know Programming to use Git & GitHub..
+Git is a version control system. It tracks changes in your code so you can:
+- Go back in time
+- Experiment safely
+- Not destroy your project
+- Work with other people
+
+2. What is GitHub?
+GitHub is a plartform where you store your Git repositories online.
+
+3. The Basic Workflow:
+
+Code → Stage → Commit → Push → Merge
+
+- You write code
+- You stage it
+- You commit it (save a snapshot)
+- You push it to GitHub
+
+4. The Most Important Commands / Actions:
+
+- Clone → copy a repo to your computer
+- Stage → choose what goes into the commit
+- Commit → save a snapshot
+- Push → send to GitHub
+- Pull → get changes from GitHub
+
+5. Branches:
+Branches let you work without breaking the main project.
+
+6. Merging:
+Merging combines branches.
+
+7. Merge Conflicts:
+Happens when there's conflicting changes and Git doesn’t know which change to keep.
+You manually fix it!!
+
+8. Fork:
+A copy of someone else’s repo into your own GitHub.
+
+9. Pull Request (PR):
+A request to merge your changes into another repo.
+
+10. Golden Rules:
+- Commit often
+- Write meaningful commit messages
+- Push regularly
+- Never work directly on main for big changes
+
+11. Pro Tip:
+Use GitHub Desktop. It makes Git 10x easier.
