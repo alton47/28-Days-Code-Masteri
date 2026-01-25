@@ -1,0 +1,21 @@
+Project 4 — Favorite Movies Website (HTML Only)
+
+About:
+In this project, you will build a simple website that showcases your favorite movies using only HTML. You will practice structuring content using headings, images, paragraphs and basic layout sections.
+
+Goal:
+- Create a Favorite movies page using only HTML.
+
+Rules:
+- No CSS
+- No JavaScript
+
+Files:
+- index.html → code here
+- solution.html → check after you finish
+
+Instructions:
+1. Open index.html
+2. Look at goal.png to see what you need to build
+3. Recreate the website using only HTML
+4. When done, compare your work with solution.html

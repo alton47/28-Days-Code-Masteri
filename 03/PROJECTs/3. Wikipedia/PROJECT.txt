@@ -1,0 +1,19 @@
+Project 3 — Wikipedia-Style Page (Pure HTML)
+
+About:
+In this project, you will build a Wikipedia-style article page using only HTML. You will use everything you have learned so far to structure a long, information-rich document.
+
+Rules:
+- No CSS
+- No JavaScript
+Just raw HTML
+
+Files:
+- index.html → code here
+- solution.html → check after you finish
+
+Instructions:
+1. Open index.html
+2. Look at goal.png to see what you need to build
+3. Recreate the article layout using only HTML
+4. When done, compare your work with solution.html
