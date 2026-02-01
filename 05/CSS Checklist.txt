@@ -1,0 +1,69 @@
+CSS CORE — The Only Things That Actually Matter
+
+1. CSS is for design.
+
+2. Three ways to use CSS:
+   - Inline (bad)
+   - <style> in HTML (ok)
+   - External .css file (best)
+
+3. The most important concepts:
+   - Selectors
+   - Box model
+   - Colors
+   - Spacing
+   - Layout
+   - Alignment
+
+4. Most important properties:
+   color
+   background
+   font-size
+   font-family
+   text-align
+   width / height
+   margin
+   padding
+   border
+   border-radius
+   display
+   flex
+   gap
+
+5. The Box Model:
+   Every element is:
+   - content
+   - padding
+   - border
+   - margin
+
+6. Centering:
+   - text-align: center
+   - margin: auto
+   - flexbox (justify-content, align-items)
+
+7. Layout:
+   - display: block
+   - display: inline
+   - display: flex
+   - display: grid
+
+8. Classes:
+   Use classes to style things:
+   .card
+   .title
+   .container
+
+9. Hover:
+   You can react to user:
+   :hover
+
+10. If you understand:
+    - Box model
+    - Flexbox
+    - Colors
+    - Spacing
+    - Alignment
+    You already understand 80% of CSS.
+
+Everything else is just extra features.
