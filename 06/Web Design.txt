@@ -1,0 +1,47 @@
+WEB DESIGN CORE — How Good Websites Are Actually Made
+
+1. Web design is communication, not decoration.
+
+2. A good website:
+   - Is clear
+   - Is readable
+   - Is usable
+   - Feels intentional
+
+3. The fundamentals:
+   - Spacing
+   - Alignment
+   - Contrast
+   - Consistency
+
+4. Layout principles:
+   - Use grids
+   - Align elements properly
+   - Group related content
+
+5. Typography:
+   - Limit fonts (1–2 max)
+   - Use size & weight for hierarchy
+   - Line-height matters
+
+6. Colors:
+   - Use a limited palette
+   - High contrast for readability
+   - Don’t overdo gradients & effects
+
+7. Responsiveness:
+   - Design for mobile first
+   - Content must adapt to screen size
+
+8. Web design is NOT:
+   - Adding random effects
+   - Copying trends blindly
+
+9. If you understand:
+   - Layout
+   - Hierarchy
+   - Spacing
+   - Readability
+   You understand good web design.
+
+Everything else is taste + experience.
