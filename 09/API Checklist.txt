@@ -1,0 +1,52 @@
+APIs CORE — How Websites Talk to Each Other
+
+1. An API is a messenger between systems.
+
+2. APIs let you:
+   - Get data
+   - Send data
+   - Update data
+   - Delete data
+
+3. The basics:
+   - Request → you ask
+   - Response → you receive
+   - Data is usually JSON
+
+4. Common actions:
+   - GET → read data
+   - POST → send data
+   - PUT / PATCH → update data
+   - DELETE → remove data
+
+5. Endpoints:
+   - A URL that does one job
+   - Example:
+     /users
+     /posts/1
+
+6. Status codes:
+   - 200 → success
+   - 400 → bad request
+   - 401 → unauthorized
+   - 404 → not found
+   - 500 → server error
+
+7. APIs are used for:
+   - Weather apps
+   - Payments
+   - Auth (login)
+   - Databases
+   - AI services
+
+8. APIs are NOT:
+   - Frontend code
+   - UI
+
+9. If you understand:
+   - Requests & responses
+   - JSON
+   - Endpoints
+   You understand 80% of APIs.
+
+Everything else is documentation and practice.
