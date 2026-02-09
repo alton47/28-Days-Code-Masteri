@@ -1,0 +1,46 @@
+JAVASCRIPT CORE — The Only Things That Actually Matter
+
+1. JavaScript makes the web interactive.
+
+2. JavaScript can:
+   - React to user actions
+   - Change HTML & CSS
+   - Fetch data
+   - Control logic & flow
+
+3. The most important concepts:
+   - Variables → let, const
+   - Functions → reusable logic
+   - Conditions → if / else
+   - Loops → for, while
+   - Arrays & Objects → store data
+
+4. Variables:
+   - const → does NOT change
+   - let → can change
+   - Avoid var
+
+5. Functions:
+   - A function does ONE job
+   - Reuse logic instead of repeating code
+
+6. The DOM:
+   - JavaScript talks to HTML through the DOM
+   - You can select, change, add, remove elements
+
+7. Events:
+   - click, submit, input, hover
+   - User actions trigger code
+
+8. JavaScript is NOT:
+   - A design tool
+   - A styling language
+
+9. If you understand:
+   - Variables
+   - Functions
+   - Events
+   - The DOM
+   You understand 80% of JavaScript.
+
+Everything else is patterns and practice.
