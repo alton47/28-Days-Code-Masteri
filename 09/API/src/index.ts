@@ -15,6 +15,11 @@ app.use(
 
 app.use(compression());
 app.use(cookieParser());
-app.use(bodyParser());
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 const server = http.createServer(app);
+
+server.listen(8080, () => {
+  console.log("Server ioooo");
+});
