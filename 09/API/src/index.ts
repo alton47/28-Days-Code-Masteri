@@ -1,3 +1,6 @@
+import dns from "node:dns";
+dns.setServers(["8.8.8.8", "8.8.4.4"]);
+
 import express from "express";
 import http from "http";
 import bodyParser from "body-parser";
@@ -43,4 +46,6 @@ mongoose.connection.on("disconnected", () => {
   console.log("⚠️ MongoDB disconnected!");
 });
 
-mongoose.connect(MONGO_URL);
+mongoose.connect(MONGO_URL).catch((err) => {
+  console.error("🔥 Initial Connection Failed:", err.message);
+});
