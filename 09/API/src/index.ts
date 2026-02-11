@@ -10,6 +10,8 @@ import cors from "cors";
 import mongoose from "mongoose";
 import router from "./router";
 
+require("dotenv").config();
+
 const app = express();
 
 app.use(
@@ -30,8 +32,7 @@ server.listen(PORT, () => {
   console.log(`🚀 Server is running on http://localhost:${PORT}`);
 });
 
-const MONGO_URL =
-  "mongodb+srv://altonallan47_db_user:CbuZJM2O5XwLBjRx@null.23jy8pp.mongodb.net/?appName=NULL";
+const MONGO_URL = process.env.MONGO_URL;
 
 mongoose.Promise = Promise;
 
